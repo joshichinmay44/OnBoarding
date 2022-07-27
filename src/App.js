@@ -5,8 +5,8 @@ import './style.css';
 
 function App() {
   return (
-    <div align="center">
-      <Card variant="outlined">
+    <div align="center" overflow="auto">
+      <Card>
         <Picture />
       </Card>
     </div>
