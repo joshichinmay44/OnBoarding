@@ -1,13 +1,14 @@
 import React from 'react';
-
-import Picture from './components/carousel.js';
+import { Card } from '@mui/material';
+import Picture from './components/picture.js';
 import './style.css';
 
 function App() {
   return (
-    <div>
-      Hello World!
-      <Picture />
+    <div align="center">
+      <Card variant="outlined">
+        <Picture />
+      </Card>
     </div>
   );
 }
