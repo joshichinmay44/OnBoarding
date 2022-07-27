@@ -5,23 +5,23 @@ function Picture() {
   const data = [
     {
       image:
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/GoldenGateBridge-001.jpg/1200px-GoldenGateBridge-001.jpg',
+        'https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/06bc6339376b3706107a2417504fb7bc.png',
     },
     {
       image:
-        'https://cdn.britannica.com/s:800x450,c:crop/35/204435-138-2F2B745A/Time-lapse-hyper-lapse-Isle-Skye-Scotland.jpg',
+        'https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/9ded35f5d4db48b0a38d70128775e8c4.png',
     },
     {
       image:
-        'https://static2.tripoto.com/media/filter/tst/img/735873/TripDocument/1537686560_1537686557954.jpg',
+        'https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/67e48efc54b41af96fdceb1eb2f1e8fa.png',
     },
     {
       image:
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Palace_of_Fine_Arts_%2816794p%29.jpg/1200px-Palace_of_Fine_Arts_%2816794p%29.jpg',
+        'https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/4196572828305b986d6757de36bc973b.png',
     },
     {
       image:
-        'https://i.natgeofe.com/n/f7732389-a045-402c-bf39-cb4eda39e786/scotland_travel_4x3.jpg',
+        'https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/caaa58fdb069912de2b13f0a049959ea.png',
     },
   ];
   return (
